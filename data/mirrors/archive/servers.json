@@ -1,6 +1,20 @@
 {
     "mirrors": [
         {
+            "country": "Afghanistan",
+            "country_speed": "10 Gbps",
+            "mirror_name": "Ava License",
+            "protocols": [
+                "https://ubuntu.avalicense.com/ubuntu/",
+                "http://ubuntu.avalicense.com/ubuntu/"
+            ],
+            "hostnames": [
+                "ubuntu.avalicense.com"
+            ],
+            "mirror_speed": "10 Gbps",
+            "status": "Up to date"
+        },
+        {
             "country": "Argentina",
             "country_speed": "21 Gbps",
             "mirror_name": "ClearNet S.A.",
@@ -1281,8 +1295,8 @@
                 "rsync://rsync.mirrors.ustc.edu.cn/ubuntu/"
             ],
             "hostnames": [
-                "rsync.mirrors.ustc.edu.cn",
-                "mirrors.ustc.edu.cn"
+                "mirrors.ustc.edu.cn",
+                "rsync.mirrors.ustc.edu.cn"
             ],
             "mirror_speed": "10 Gbps",
             "status": "Up to date"
@@ -2598,8 +2612,8 @@
                 "rsync://rsync.uni-bayreuth.de/ubuntu-archive/"
             ],
             "hostnames": [
-                "ftp.uni-bayreuth.de",
-                "rsync.uni-bayreuth.de"
+                "rsync.uni-bayreuth.de",
+                "ftp.uni-bayreuth.de"
             ],
             "mirror_speed": "1 Gbps",
             "status": "Up to date"
@@ -2909,8 +2923,8 @@
                 "ftp://ftp.otenet.gr/ubuntu/"
             ],
             "hostnames": [
-                "ubuntu.otenet.gr",
-                "ftp.otenet.gr"
+                "ftp.otenet.gr",
+                "ubuntu.otenet.gr"
             ],
             "mirror_speed": "1 Gbps",
             "status": "Up to date"
@@ -3628,7 +3642,7 @@
         },
         {
             "country": "Iran, Islamic Republic of",
-            "country_speed": "897 Gbps",
+            "country_speed": "877 Gbps",
             "mirror_name": "Zagrio WebHosting",
             "protocols": [
                 "https://archive.ubuntu.mirrors.zagrio.net/",
@@ -3645,7 +3659,7 @@
         },
         {
             "country": "Iran, Islamic Republic of",
-            "country_speed": "897 Gbps",
+            "country_speed": "877 Gbps",
             "mirror_name": "Iranserver",
             "protocols": [
                 "https://mirror.iranserver.com/ubuntu/",
@@ -3659,7 +3673,7 @@
         },
         {
             "country": "Iran, Islamic Republic of",
-            "country_speed": "897 Gbps",
+            "country_speed": "877 Gbps",
             "mirror_name": "Kernel.ir",
             "protocols": [
                 "https://mirror.kernel.ir/ubuntu/",
@@ -3673,7 +3687,7 @@
         },
         {
             "country": "Iran, Islamic Republic of",
-            "country_speed": "897 Gbps",
+            "country_speed": "877 Gbps",
             "mirror_name": "KimiaHost (Kimia Pooyesh)",
             "protocols": [
                 "https://ubuntu-mirror.kimiahost.com/",
@@ -3687,7 +3701,7 @@
         },
         {
             "country": "Iran, Islamic Republic of",
-            "country_speed": "897 Gbps",
+            "country_speed": "877 Gbps",
             "mirror_name": "HostBaran",
             "protocols": [
                 "https://ir.archive.ubuntu.com/ubuntu/",
@@ -3703,7 +3717,7 @@
         },
         {
             "country": "Iran, Islamic Republic of",
-            "country_speed": "897 Gbps",
+            "country_speed": "877 Gbps",
             "mirror_name": "Mobinhost",
             "protocols": [
                 "https://ubuntu.mobinhost.com/ubuntu/",
@@ -3719,7 +3733,7 @@
         },
         {
             "country": "Iran, Islamic Republic of",
-            "country_speed": "897 Gbps",
+            "country_speed": "877 Gbps",
             "mirror_name": "Pishgaman Tose Ertebatat",
             "protocols": [
                 "https://ubuntu.pishgaman.net/ubuntu/",
@@ -3734,7 +3748,7 @@
         },
         {
             "country": "Iran, Islamic Republic of",
-            "country_speed": "897 Gbps",
+            "country_speed": "877 Gbps",
             "mirror_name": "Sindad LLC",
             "protocols": [
                 "https://ir.ubuntu.sindad.cloud/ubuntu/",
@@ -3750,7 +3764,7 @@
         },
         {
             "country": "Iran, Islamic Republic of",
-            "country_speed": "897 Gbps",
+            "country_speed": "877 Gbps",
             "mirror_name": "Sefroyek Pardaz Engineering Co.",
             "protocols": [
                 "https://mirror.0-1.cloud/ubuntu/",
@@ -3764,7 +3778,7 @@
         },
         {
             "country": "Iran, Islamic Republic of",
-            "country_speed": "897 Gbps",
+            "country_speed": "877 Gbps",
             "mirror_name": "Amin IDC",
             "protocols": [
                 "http://mirror.aminidc.com/ubuntu/",
@@ -3779,7 +3793,7 @@
         },
         {
             "country": "Iran, Islamic Republic of",
-            "country_speed": "897 Gbps",
+            "country_speed": "877 Gbps",
             "mirror_name": "ArvanCloud",
             "protocols": [
                 "https://mirror.arvancloud.ir/ubuntu/",
@@ -3793,7 +3807,7 @@
         },
         {
             "country": "Iran, Islamic Republic of",
-            "country_speed": "897 Gbps",
+            "country_speed": "877 Gbps",
             "mirror_name": "Pardis Co.",
             "protocols": [
                 "https://mirrors.pardisco.co/ubuntu/",
@@ -3807,7 +3821,7 @@
         },
         {
             "country": "Iran, Islamic Republic of",
-            "country_speed": "897 Gbps",
+            "country_speed": "877 Gbps",
             "mirror_name": "Petiak",
             "protocols": [
                 "https://archive.ubuntu.petiak.ir/ubuntu/",
@@ -3823,7 +3837,7 @@
         },
         {
             "country": "Iran, Islamic Republic of",
-            "country_speed": "897 Gbps",
+            "country_speed": "877 Gbps",
             "mirror_name": "linuxmirrors.ir",
             "protocols": [
                 "https://repo.linuxmirrors.ir/ubuntu/"
@@ -3836,21 +3850,7 @@
         },
         {
             "country": "Iran, Islamic Republic of",
-            "country_speed": "897 Gbps",
-            "mirror_name": "Ava License",
-            "protocols": [
-                "https://ubuntu.avalicense.com/ubuntu/",
-                "http://ubuntu.avalicense.com/ubuntu/"
-            ],
-            "hostnames": [
-                "ubuntu.avalicense.com"
-            ],
-            "mirror_speed": "10 Gbps",
-            "status": "Up to date"
-        },
-        {
-            "country": "Iran, Islamic Republic of",
-            "country_speed": "897 Gbps",
+            "country_speed": "877 Gbps",
             "mirror_name": "pars.host",
             "protocols": [
                 "https://ubuntu.pars.host/",
@@ -3864,7 +3864,7 @@
         },
         {
             "country": "Iran, Islamic Republic of",
-            "country_speed": "897 Gbps",
+            "country_speed": "877 Gbps",
             "mirror_name": "Parsvds.com",
             "protocols": [
                 "https://ubuntu.parsvds.com/ubuntu/",
@@ -3878,21 +3878,7 @@
         },
         {
             "country": "Iran, Islamic Republic of",
-            "country_speed": "897 Gbps",
-            "mirror_name": "Servering Co",
-            "protocols": [
-                "https://ubuntu.servering.info/ubuntu/",
-                "http://ubuntu.servering.info/ubuntu/"
-            ],
-            "hostnames": [
-                "ubuntu.servering.info"
-            ],
-            "mirror_speed": "10 Gbps",
-            "status": "Up to date"
-        },
-        {
-            "country": "Iran, Islamic Republic of",
-            "country_speed": "897 Gbps",
+            "country_speed": "877 Gbps",
             "mirror_name": "Homa Cloud",
             "protocols": [
                 "https://ubuntu.mirror.homacloud.ai/ubuntu/",
@@ -3907,7 +3893,7 @@
         },
         {
             "country": "Iran, Islamic Republic of",
-            "country_speed": "897 Gbps",
+            "country_speed": "877 Gbps",
             "mirror_name": "Famaserver",
             "protocols": [
                 "https://mirror.famaserver.com/archive/",
@@ -3921,7 +3907,7 @@
         },
         {
             "country": "Iran, Islamic Republic of",
-            "country_speed": "897 Gbps",
+            "country_speed": "877 Gbps",
             "mirror_name": "Faraso Samaneh Pasargad",
             "protocols": [
                 "http://mirror.faraso.org/ubuntu/"
@@ -3934,7 +3920,7 @@
         },
         {
             "country": "Iran, Islamic Republic of",
-            "country_speed": "897 Gbps",
+            "country_speed": "877 Gbps",
             "mirror_name": "Dimit Network",
             "protocols": [
                 "https://mirrors.ubuntu.dimit.cloud/",
@@ -3948,7 +3934,7 @@
         },
         {
             "country": "Iran, Islamic Republic of",
-            "country_speed": "897 Gbps",
+            "country_speed": "877 Gbps",
             "mirror_name": "Isfahan University of Technology",
             "protocols": [
                 "http://repo.iut.ac.ir/repo/Ubuntu/"
@@ -4569,8 +4555,8 @@
                 "rsync://rsync.yuki.net.uk/ubuntu/"
             ],
             "hostnames": [
-                "rsync.yuki.net.uk",
-                "mirror.yuki.net.uk"
+                "mirror.yuki.net.uk",
+                "rsync.yuki.net.uk"
             ],
             "mirror_speed": "10 Gbps",
             "status": "Up to date"
@@ -4585,8 +4571,8 @@
                 "rsync://rsync.yuki.net.uk/ubuntu-ports/"
             ],
             "hostnames": [
-                "rsync.yuki.net.uk",
-                "mirror.yuki.net.uk"
+                "mirror.yuki.net.uk",
+                "rsync.yuki.net.uk"
             ],
             "mirror_speed": "10 Gbps",
             "status": "Up to date"
@@ -4630,8 +4616,8 @@
                 "rsync://rsync.mirror.zzunipark.com/ubuntu/"
             ],
             "hostnames": [
-                "mirror.zzunipark.com",
-                "rsync.mirror.zzunipark.com"
+                "rsync.mirror.zzunipark.com",
+                "mirror.zzunipark.com"
             ],
             "mirror_speed": "2 Gbps",
             "status": "Up to date"
@@ -4646,8 +4632,8 @@
                 "rsync://rsync.mirror.zzunipark.com/ubuntu-ports/"
             ],
             "hostnames": [
-                "mirror.zzunipark.com",
-                "rsync.mirror.zzunipark.com"
+                "rsync.mirror.zzunipark.com",
+                "mirror.zzunipark.com"
             ],
             "mirror_speed": "2 Gbps",
             "status": "Up to date"
@@ -5575,8 +5561,8 @@
                 "rsync://rsync.ubuntu.nautile.nc/ubuntu/"
             ],
             "hostnames": [
-                "archive.ubuntu.nautile.nc",
-                "rsync.ubuntu.nautile.nc"
+                "rsync.ubuntu.nautile.nc",
+                "archive.ubuntu.nautile.nc"
             ],
             "mirror_speed": "2 Gbps",
             "status": "Up to date"
@@ -5750,8 +5736,8 @@
                 "rsync://rsync.icm.edu.pl/pub/Linux/ubuntu/"
             ],
             "hostnames": [
-                "ftp.icm.edu.pl",
-                "rsync.icm.edu.pl"
+                "rsync.icm.edu.pl",
+                "ftp.icm.edu.pl"
             ],
             "mirror_speed": "10 Gbps",
             "status": "Up to date"
@@ -6115,9 +6101,9 @@
                 "rsync://ubuntu.mirror.linux.ro/ubuntu-archive/"
             ],
             "hostnames": [
-                "ubuntu.mirror.linux.ro",
                 "ubuntu.mirrors.linux.ro",
-                "ftp.linux.ro"
+                "ftp.linux.ro",
+                "ubuntu.mirror.linux.ro"
             ],
             "mirror_speed": "1 Gbps",
             "status": "Up to date"
@@ -6287,7 +6273,21 @@
         },
         {
             "country": "Saudi Arabia",
-            "country_speed": "1 Gbps",
+            "country_speed": "11 Gbps",
+            "mirror_name": "Servering Co",
+            "protocols": [
+                "https://ubuntu.servering.info/ubuntu/",
+                "http://ubuntu.servering.info/ubuntu/"
+            ],
+            "hostnames": [
+                "ubuntu.servering.info"
+            ],
+            "mirror_speed": "10 Gbps",
+            "status": "Up to date"
+        },
+        {
+            "country": "Saudi Arabia",
+            "country_speed": "11 Gbps",
             "mirror_name": "Maeen Network",
             "protocols": [
                 "https://mirror.maeen.sa/apt-mirror/",
@@ -6708,8 +6708,8 @@
                 "ftp://ftp.uvigo.es/ubuntu/"
             ],
             "hostnames": [
-                "ubuntu.uvigo.es",
-                "ftp.uvigo.es"
+                "ftp.uvigo.es",
+                "ubuntu.uvigo.es"
             ],
             "mirror_speed": "1 Gbps",
             "status": "Up to date"
@@ -7063,8 +7063,8 @@
                 "rsync://ftp.ubuntu-tw.org/ubuntu/"
             ],
             "hostnames": [
-                "ftp.ubuntu-tw.org",
-                "ftp.ubuntu-tw.net"
+                "ftp.ubuntu-tw.net",
+                "ftp.ubuntu-tw.org"
             ],
             "mirror_speed": "4 Gbps",
             "status": "Up to date"
@@ -7648,8 +7648,8 @@
                 "rsync://rsync.mirrorservice.org/archive.ubuntu.com/ubuntu/"
             ],
             "hostnames": [
-                "www.mirrorservice.org",
                 "ftp.mirrorservice.org",
+                "www.mirrorservice.org",
                 "rsync.mirrorservice.org"
             ],
             "mirror_speed": "10 Gbps",
@@ -9014,9 +9014,9 @@
                 "rsync://rsync.gtlib.gatech.edu/ubuntu/"
             ],
             "hostnames": [
+                "ftp.gtlib.gatech.edu",
                 "rsync.gtlib.gatech.edu",
-                "www.gtlib.gatech.edu",
-                "ftp.gtlib.gatech.edu"
+                "www.gtlib.gatech.edu"
             ],
             "mirror_speed": "1 Gbps",
             "status": "Up to date"
@@ -9312,5 +9312,5 @@
         }
     ],
     "count": 648,
-    "last_updated": "2025-10-09T14:22:28.097478+00:00"
+    "last_updated": "2025-10-10T00:56:19.123292+00:00"
 }
