@@ -109,8 +109,8 @@
                 "rsync://mirror.digitalpacific.com.au/ubuntu/releases/"
             ],
             "hostnames": [
-                "mirror.digitalpacific.com.au",
-                "ubuntu.mirror.digitalpacific.com.au"
+                "ubuntu.mirror.digitalpacific.com.au",
+                "mirror.digitalpacific.com.au"
             ],
             "mirror_speed": "10 Gbps",
             "status": "N/A"
@@ -316,8 +316,8 @@
                 "rsync://mirror-services.net/ubuntu/"
             ],
             "hostnames": [
-                "ubuntu.mirror-services.net",
-                "mirror-services.net"
+                "mirror-services.net",
+                "ubuntu.mirror-services.net"
             ],
             "mirror_speed": "100 Mbps",
             "status": "N/A"
@@ -403,9 +403,9 @@
                 "rsync://rsync.las.ic.unicamp.br/ubuntu-releases/"
             ],
             "hostnames": [
-                "rsync.las.ic.unicamp.br",
+                "ftp.las.ic.unicamp.br",
                 "www.las.ic.unicamp.br",
-                "ftp.las.ic.unicamp.br"
+                "rsync.las.ic.unicamp.br"
             ],
             "mirror_speed": "1 Gbps",
             "status": "N/A"
@@ -553,8 +553,8 @@
                 "rsync://muug.ca/ubuntu-releases/"
             ],
             "hostnames": [
-                "muug.ca",
-                "ftp.muug.ca"
+                "ftp.muug.ca",
+                "muug.ca"
             ],
             "mirror_speed": "10 Gbps",
             "status": "N/A"
@@ -585,8 +585,8 @@
                 "rsync://mirrror.0xem.ma/ubuntu-releases/"
             ],
             "hostnames": [
-                "mirror.0xem.ma",
-                "mirrror.0xem.ma"
+                "mirrror.0xem.ma",
+                "mirror.0xem.ma"
             ],
             "mirror_speed": "4 Gbps",
             "status": "N/A"
@@ -1261,7 +1261,7 @@
         },
         {
             "country": "Finland",
-            "country_speed": "21 Gbps",
+            "country_speed": "31 Gbps",
             "mirror_name": "CSC / Funet",
             "protocols": [
                 "https://www.nic.funet.fi/pub/mirrors/releases.ubuntu.com/",
@@ -1270,16 +1270,31 @@
                 "rsync://rsync.nic.funet.fi/ftp/pub/mirrors/releases.ubuntu.com/"
             ],
             "hostnames": [
+                "ftp.funet.fi",
                 "rsync.nic.funet.fi",
-                "www.nic.funet.fi",
-                "ftp.funet.fi"
+                "www.nic.funet.fi"
             ],
             "mirror_speed": "20 Gbps",
             "status": "N/A"
         },
         {
             "country": "Finland",
-            "country_speed": "21 Gbps",
+            "country_speed": "31 Gbps",
+            "mirror_name": "Mirror.5i.fi-release",
+            "protocols": [
+                "https://mirror.5i.fi/ubuntu-releases/",
+                "http://mirror.5i.fi/ubuntu-releases/",
+                "rsync://mirror.5i.fi/ubuntu-releases/"
+            ],
+            "hostnames": [
+                "mirror.5i.fi"
+            ],
+            "mirror_speed": "10 Gbps",
+            "status": "N/A"
+        },
+        {
+            "country": "Finland",
+            "country_speed": "31 Gbps",
             "mirror_name": "Ubuntu-TW / OSSPlanet",
             "protocols": [
                 "https://mirror.fi.ossplanet.net/ubuntu-releases/",
@@ -1451,8 +1466,8 @@
                 "rsync://ftp.lip6.fr/Ubuntu/releases/"
             ],
             "hostnames": [
-                "www-ftp.lip6.fr",
-                "ftp.lip6.fr"
+                "ftp.lip6.fr",
+                "www-ftp.lip6.fr"
             ],
             "mirror_speed": "1 Gbps",
             "status": "N/A"
@@ -1958,7 +1973,7 @@
         },
         {
             "country": "Greece",
-            "country_speed": "2 Gbps",
+            "country_speed": "3 Gbps",
             "mirror_name": "Aristotle University of Thessaloniki",
             "protocols": [
                 "https://fosszone.csd.auth.gr/ubuntu-releases/",
@@ -1972,7 +1987,22 @@
         },
         {
             "country": "Greece",
-            "country_speed": "2 Gbps",
+            "country_speed": "3 Gbps",
+            "mirror_name": "University of Crete",
+            "protocols": [
+                "https://ftp.cc.uoc.gr/mirrors/linux/ubuntu/releases/",
+                "http://ftp.cc.uoc.gr/mirrors/linux/ubuntu/releases/",
+                "ftp://ftp.cc.uoc.gr/mirrors/linux/ubuntu/releases/"
+            ],
+            "hostnames": [
+                "ftp.cc.uoc.gr"
+            ],
+            "mirror_speed": "1 Gbps",
+            "status": "N/A"
+        },
+        {
+            "country": "Greece",
+            "country_speed": "3 Gbps",
             "mirror_name": "OTENET",
             "protocols": [
                 "ftp://ftp.otenet.gr/pub/linux/ubuntu-releases/"
@@ -2275,7 +2305,7 @@
         },
         {
             "country": "Iran, Islamic Republic of",
-            "country_speed": "420 Gbps",
+            "country_speed": "320 Gbps",
             "mirror_name": "HostBaran",
             "protocols": [
                 "https://ir.releases.ubuntu.com/",
@@ -2289,7 +2319,7 @@
         },
         {
             "country": "Iran, Islamic Republic of",
-            "country_speed": "420 Gbps",
+            "country_speed": "320 Gbps",
             "mirror_name": "Mobinhost",
             "protocols": [
                 "https://ubuntu.mobinhost.com/releases/",
@@ -2305,22 +2335,7 @@
         },
         {
             "country": "Iran, Islamic Republic of",
-            "country_speed": "420 Gbps",
-            "mirror_name": "Pishgaman Tose Ertebatat",
-            "protocols": [
-                "https://ubuntu.pishgaman.net/releases/",
-                "http://ubuntu.pishgaman.net/releases/",
-                "rsync://ubuntu.pishgaman.net/releases/"
-            ],
-            "hostnames": [
-                "ubuntu.pishgaman.net"
-            ],
-            "mirror_speed": "100 Gbps",
-            "status": "N/A"
-        },
-        {
-            "country": "Iran, Islamic Republic of",
-            "country_speed": "420 Gbps",
+            "country_speed": "320 Gbps",
             "mirror_name": "Sefroyek Pardaz Engineering Co.",
             "protocols": [
                 "https://mirror.0-1.cloud/ubuntu-releases/",
@@ -2334,7 +2349,7 @@
         },
         {
             "country": "Iran, Islamic Republic of",
-            "country_speed": "420 Gbps",
+            "country_speed": "320 Gbps",
             "mirror_name": "Pardis Co.",
             "protocols": [
                 "https://mirrors.pardisco.co/ubuntu-cd/",
@@ -2348,7 +2363,7 @@
         },
         {
             "country": "Iran, Islamic Republic of",
-            "country_speed": "420 Gbps",
+            "country_speed": "320 Gbps",
             "mirror_name": "Sindad LLC",
             "protocols": [
                 "https://ir.ubuntu.sindad.cloud/releases/",
@@ -2364,7 +2379,7 @@
         },
         {
             "country": "Iran, Islamic Republic of",
-            "country_speed": "420 Gbps",
+            "country_speed": "320 Gbps",
             "mirror_name": "FamaServer",
             "protocols": [
                 "https://mirror.famaserver.com/cd-image/",
@@ -2378,7 +2393,7 @@
         },
         {
             "country": "Iran, Islamic Republic of",
-            "country_speed": "420 Gbps",
+            "country_speed": "320 Gbps",
             "mirror_name": "ParsDev",
             "protocols": [
                 "https://mirror.parsdev.com/ubuntu-releases/",
@@ -2392,7 +2407,7 @@
         },
         {
             "country": "Iran, Islamic Republic of",
-            "country_speed": "420 Gbps",
+            "country_speed": "320 Gbps",
             "mirror_name": "Petiak",
             "protocols": [
                 "https://releases.ubuntu.petiak.ir/",
@@ -2408,7 +2423,7 @@
         },
         {
             "country": "Iran, Islamic Republic of",
-            "country_speed": "420 Gbps",
+            "country_speed": "320 Gbps",
             "mirror_name": "Amin IDC",
             "protocols": [
                 "http://mirror.aminidc.com/ubuntu-releases/",
@@ -2423,7 +2438,7 @@
         },
         {
             "country": "Iran, Islamic Republic of",
-            "country_speed": "420 Gbps",
+            "country_speed": "320 Gbps",
             "mirror_name": "Bonyan Co.",
             "protocols": [
                 "https://ubuntu.bonyan.co/",
@@ -2437,7 +2452,7 @@
         },
         {
             "country": "Iran, Islamic Republic of",
-            "country_speed": "420 Gbps",
+            "country_speed": "320 Gbps",
             "mirror_name": "Parsvds.com",
             "protocols": [
                 "https://ubuntu.parsvds.com/ubuntu-releases/",
@@ -2451,7 +2466,7 @@
         },
         {
             "country": "Iran, Islamic Republic of",
-            "country_speed": "420 Gbps",
+            "country_speed": "320 Gbps",
             "mirror_name": "Servering Co",
             "protocols": [
                 "https://ubuntu.servering.info/releases/",
@@ -3120,8 +3135,8 @@
                 "rsync://mirror.root.lu/Ubuntu/ubuntu-releases/"
             ],
             "hostnames": [
-                "mirror.root.lu",
-                "ubuntu.mirror.root.lu"
+                "ubuntu.mirror.root.lu",
+                "mirror.root.lu"
             ],
             "mirror_speed": "1 Gbps",
             "status": "N/A"
@@ -3229,7 +3244,35 @@
         },
         {
             "country": "Moldova, Republic of",
-            "country_speed": "1 Gbps",
+            "country_speed": "13 Gbps",
+            "mirror_name": "iHost",
+            "protocols": [
+                "https://mirror.ihost.md/ubuntu-releases/"
+            ],
+            "hostnames": [
+                "mirror.ihost.md"
+            ],
+            "mirror_speed": "10 Gbps",
+            "status": "N/A"
+        },
+        {
+            "country": "Moldova, Republic of",
+            "country_speed": "13 Gbps",
+            "mirror_name": "iHost",
+            "protocols": [
+                "http://mirror.ihost.md/ubuntu-releases/",
+                "ftp://mirror.ihost.md/ubuntu-releases/",
+                "rsync://mirror.ihost.md/ubuntu-releases/"
+            ],
+            "hostnames": [
+                "mirror.ihost.md"
+            ],
+            "mirror_speed": "2 Gbps",
+            "status": "N/A"
+        },
+        {
+            "country": "Moldova, Republic of",
+            "country_speed": "13 Gbps",
             "mirror_name": "MangoHost",
             "protocols": [
                 "https://mirror.mangohost.net/ubuntu-releases/",
@@ -3657,8 +3700,8 @@
                 "rsync://rsync.ubuntu.nautile.nc/ubuntu-releases/"
             ],
             "hostnames": [
-                "rsync.ubuntu.nautile.nc",
-                "releases.ubuntu.nautile.nc"
+                "releases.ubuntu.nautile.nc",
+                "rsync.ubuntu.nautile.nc"
             ],
             "mirror_speed": "2 Gbps",
             "status": "N/A"
@@ -3810,7 +3853,7 @@
         },
         {
             "country": "Poland",
-            "country_speed": "11 Gbps",
+            "country_speed": "10 Gbps",
             "mirror_name": "ICM - Interdisciplinary Centre for Mathematical and Computational Modelling",
             "protocols": [
                 "https://ftp.icm.edu.pl/pub/Linux/ubuntu-releases/",
@@ -3823,22 +3866,6 @@
                 "rsync.icm.edu.pl"
             ],
             "mirror_speed": "10 Gbps",
-            "status": "N/A"
-        },
-        {
-            "country": "Poland",
-            "country_speed": "11 Gbps",
-            "mirror_name": "Miejska Sie\u0107 Komputerowa LODMAN / Politechnika \u0141\u00f3dzka CK",
-            "protocols": [
-                "https://ubuntu.man.lodz.pl/ubuntu-releases/",
-                "http://ubuntu.man.lodz.pl/ubuntu-releases/",
-                "ftp://ubuntu.man.lodz.pl/ubuntu-releases/",
-                "rsync://ubuntu.man.lodz.pl/ubuntu-releases/"
-            ],
-            "hostnames": [
-                "ubuntu.man.lodz.pl"
-            ],
-            "mirror_speed": "1 Gbps",
             "status": "N/A"
         },
         {
@@ -4433,7 +4460,7 @@
         },
         {
             "country": "South Africa",
-            "country_speed": "2 Gbps",
+            "country_speed": "3 Gbps",
             "mirror_name": "HOSTAFRICA",
             "protocols": [
                 "http://mirror.hostafrica.co.za/ubuntu-releases/"
@@ -4446,7 +4473,22 @@
         },
         {
             "country": "South Africa",
-            "country_speed": "2 Gbps",
+            "country_speed": "3 Gbps",
+            "mirror_name": "Telkom SAIX",
+            "protocols": [
+                "http://ubuntu.saix.net/ubuntu-releases/",
+                "ftp://ftp.saix.net/pub/linux/distributions/Ubuntu/ubuntu-releases/"
+            ],
+            "hostnames": [
+                "ftp.saix.net",
+                "ubuntu.saix.net"
+            ],
+            "mirror_speed": "1 Gbps",
+            "status": "N/A"
+        },
+        {
+            "country": "South Africa",
+            "country_speed": "3 Gbps",
             "mirror_name": "Internet Solutions",
             "protocols": [
                 "http://ubuntuarchive.is.co.za/cdimage/releases/",
@@ -4870,8 +4912,8 @@
                 "rsync://ftp.ubuntu-tw.org/ubuntu-releases/"
             ],
             "hostnames": [
-                "ftp.ubuntu-tw.org",
-                "ftp.ubuntu-tw.net"
+                "ftp.ubuntu-tw.net",
+                "ftp.ubuntu-tw.org"
             ],
             "mirror_speed": "4 Gbps",
             "status": "N/A"
@@ -5162,8 +5204,8 @@
                 "ftp://ubuntu.mirrors.omnilance.com/ubuntu/releases/"
             ],
             "hostnames": [
-                "ubuntu.mirrors.omnilance.com",
-                "releases.ubuntu.mirrors.omnilance.com"
+                "releases.ubuntu.mirrors.omnilance.com",
+                "ubuntu.mirrors.omnilance.com"
             ],
             "mirror_speed": "2 Gbps",
             "status": "N/A"
@@ -5224,8 +5266,8 @@
                 "rsync://rsync.releases.ubuntu.com/ubuntu-releases/"
             ],
             "hostnames": [
-                "releases.ubuntu.com",
                 "ftp.releases.ubuntu.com",
+                "releases.ubuntu.com",
                 "rsync.releases.ubuntu.com"
             ],
             "mirror_speed": "20 Gbps",
@@ -5327,9 +5369,9 @@
                 "rsync://rsync.mirrorservice.org/releases.ubuntu.com/"
             ],
             "hostnames": [
-                "www.mirrorservice.org",
+                "ftp.mirrorservice.org",
                 "rsync.mirrorservice.org",
-                "ftp.mirrorservice.org"
+                "www.mirrorservice.org"
             ],
             "mirror_speed": "10 Gbps",
             "status": "N/A"
@@ -5462,8 +5504,8 @@
                 "rsync://ubuntu.mirrors.uk2.net/releases/"
             ],
             "hostnames": [
-                "ubuntu.mirrors.uk2.net",
-                "releases.ubuntu.mirrors.uk2.net"
+                "releases.ubuntu.mirrors.uk2.net",
+                "ubuntu.mirrors.uk2.net"
             ],
             "mirror_speed": "1 Gbps",
             "status": "N/A"
@@ -6595,9 +6637,9 @@
                 "rsync://rsync.gtlib.gatech.edu/ubuntu-releases/"
             ],
             "hostnames": [
-                "www.gtlib.gatech.edu",
+                "ftp.gtlib.gatech.edu",
                 "rsync.gtlib.gatech.edu",
-                "ftp.gtlib.gatech.edu"
+                "www.gtlib.gatech.edu"
             ],
             "mirror_speed": "1 Gbps",
             "status": "N/A"
@@ -6728,6 +6770,6 @@
             "status": "N/A"
         }
     ],
-    "count": 459,
-    "last_updated": "2025-10-13T01:00:45.211621+00:00"
+    "count": 462,
+    "last_updated": "2025-10-14T00:56:45.327352+00:00"
 }

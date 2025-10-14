@@ -6,7 +6,7 @@ Armenia,2 Gbps,GNC-ALFA CJSC,http://ubuntu.mirror.gnc.am/ubuntu-releases/,ubuntu
 Australia,143 Gbps,Fremont Cabal Internet Exchange,"https://gsl-syd.mm.fcix.net/ubuntu-releases/, http://gsl-syd.mm.fcix.net/ubuntu-releases/, rsync://gsl-syd.mm.fcix.net/ubuntu-releases/",gsl-syd.mm.fcix.net,100 Gbps,N/A
 Australia,143 Gbps,Internet Association of Australia Inc.,"https://mirror.internet.asn.au/pub/ubuntu/releases/, http://mirror.internet.asn.au/pub/ubuntu/releases/, rsync://mirror.internet.asn.au/ubuntu-releases/",mirror.internet.asn.au,20 Gbps,N/A
 Australia,143 Gbps,DataMossa,"https://mirror.datamossa.io/ubuntu/releases/, http://mirror.datamossa.io/ubuntu/releases/, rsync://mirror.datamossa.io/ubuntu/releases/",mirror.datamossa.io,10 Gbps,N/A
-Australia,143 Gbps,Digital Pacific / Hostopia Australia,"http://ubuntu.mirror.digitalpacific.com.au/releases/, rsync://mirror.digitalpacific.com.au/ubuntu/releases/","mirror.digitalpacific.com.au, ubuntu.mirror.digitalpacific.com.au",10 Gbps,N/A
+Australia,143 Gbps,Digital Pacific / Hostopia Australia,"http://ubuntu.mirror.digitalpacific.com.au/releases/, rsync://mirror.digitalpacific.com.au/ubuntu/releases/","ubuntu.mirror.digitalpacific.com.au, mirror.digitalpacific.com.au",10 Gbps,N/A
 Australia,143 Gbps,Fremont Cabal Internet Exchange,"https://lchs.mm.fcix.net/ubuntu-releases/, http://lchs.mm.fcix.net/ubuntu-releases/, rsync://lchs.mm.fcix.net/ubuntu-releases/",lchs.mm.fcix.net,1 Gbps,N/A
 Australia,143 Gbps,Hostcentral,"http://mirror.as24220.net/pub/ubuntu-releases/, ftp://mirror.as24220.net/pub/ubuntu-releases/, rsync://mirror.as24220.net/ubuntu-releases/",mirror.as24220.net,1 Gbps,N/A
 Australia,143 Gbps,Servers Australia,http://ubuntu.mirror.serversaustralia.com.au/ubuntu-releases/,ubuntu.mirror.serversaustralia.com.au,1 Gbps,N/A
@@ -20,13 +20,13 @@ Bangladesh,10 Gbps,XeonBD,"https://mirror.xeonbd.com/ubuntu-releases/, http://mi
 Belgium,20 Gbps,Belnet,"https://ftp.belnet.be/ubuntu-releases/, http://ftp.belnet.be/ubuntu-releases/, ftp://ftp.belnet.be/ubuntu-releases/, rsync://ftp.belnet.be/ubuntu-releases/",ftp.belnet.be,10 Gbps,N/A
 Belgium,20 Gbps,Unix-Solutions,"https://mirror.unix-solutions.be/ubuntu-releases/, http://mirror.unix-solutions.be/ubuntu-releases/, rsync://mirror.unix-solutions.be/ubuntu-releases/",mirror.unix-solutions.be,10 Gbps,N/A
 Belgium,20 Gbps,INTEGER SPRL,http://ubuntureleases.mirror.integer.be/,ubuntureleases.mirror.integer.be,100 Mbps,N/A
-Belgium,20 Gbps,BOINC Team Belgium,"https://ubuntu.mirror-services.net/releases/, ftp://mirror-services.net/ubuntu/, rsync://mirror-services.net/ubuntu/","ubuntu.mirror-services.net, mirror-services.net",100 Mbps,N/A
+Belgium,20 Gbps,BOINC Team Belgium,"https://ubuntu.mirror-services.net/releases/, ftp://mirror-services.net/ubuntu/, rsync://mirror-services.net/ubuntu/","mirror-services.net, ubuntu.mirror-services.net",100 Mbps,N/A
 Brazil,33 Gbps,PoP-SC/RNP,"https://mirror.pop-sc.rnp.br/mirror/ubuntu-releases/, http://mirror.pop-sc.rnp.br/mirror/ubuntu-releases/",mirror.pop-sc.rnp.br,10 Gbps,N/A
 Brazil,33 Gbps,Universidade Estadual de Ponta Grossa,"https://mirror.uepg.br/ubuntu-releases/, http://mirror.uepg.br/ubuntu-releases/, rsync://mirror.uepg.br/ubuntu-releases/",mirror.uepg.br,10 Gbps,N/A
 Brazil,33 Gbps,C3SL/UFPR,"http://ubuntu.c3sl.ufpr.br/releases/, ftp://ubuntu.c3sl.ufpr.br/releases/, rsync://ubuntu.c3sl.ufpr.br/releases/",ubuntu.c3sl.ufpr.br,10 Gbps,N/A
 Brazil,33 Gbps,Prefeitura Municipal de Campo Largo,https://deb.campolargo.pr.gov.br/ubuntu/releases/,deb.campolargo.pr.gov.br,1 Gbps,N/A
 Brazil,33 Gbps,Univassouras,"https://ubuntu.univassouras.edu.br/releases/, http://ubuntu.univassouras.edu.br/releases/",ubuntu.univassouras.edu.br,1 Gbps,N/A
-Brazil,33 Gbps,LAS-IC-Unicamp,"http://www.las.ic.unicamp.br/pub/ubuntu-releases/, ftp://ftp.las.ic.unicamp.br/pub/ubuntu-releases/, rsync://rsync.las.ic.unicamp.br/ubuntu-releases/","rsync.las.ic.unicamp.br, www.las.ic.unicamp.br, ftp.las.ic.unicamp.br",1 Gbps,N/A
+Brazil,33 Gbps,LAS-IC-Unicamp,"http://www.las.ic.unicamp.br/pub/ubuntu-releases/, ftp://ftp.las.ic.unicamp.br/pub/ubuntu-releases/, rsync://rsync.las.ic.unicamp.br/ubuntu-releases/","ftp.las.ic.unicamp.br, www.las.ic.unicamp.br, rsync.las.ic.unicamp.br",1 Gbps,N/A
 Bulgaria,82 Gbps,Telepoint.bg,"https://mirror.telepoint.bg/ubuntu-releases/, http://mirror.telepoint.bg/ubuntu-releases/, ftp://mirror.telepoint.bg/ubuntu-releases/, rsync://mirror.telepoint.bg/ubuntu-releases/",mirror.telepoint.bg,20 Gbps,N/A
 Bulgaria,82 Gbps,Neterra LTD,"https://mirrors.neterra.net/ubuntu/releases/, http://mirrors.neterra.net/ubuntu/releases/, ftp://mirrors.neterra.net/ubuntu/releases/, rsync://mirrors.neterra.net/ubuntu/releases/",mirrors.neterra.net,20 Gbps,N/A
 Bulgaria,82 Gbps,Netix Ltd.,"https://mirrors.netix.net/ubuntu/releases/, http://mirrors.netix.net/ubuntu/releases/, ftp://mirrors.netix.net/ubuntu/releases/, rsync://mirrors.netix.net/ubuntu/releases/",mirrors.netix.net,20 Gbps,N/A
@@ -36,9 +36,9 @@ Bulgaria,82 Gbps,Linux-BG.org,http://ubuntu.linux-bg.org/releases/,ubuntu.linux-
 Canada,166 Gbps,GoCodeIT Inc,"https://mirror.xenyth.net/ubuntu-releases/, http://mirror.xenyth.net/ubuntu-releases/, rsync://mirror.xenyth.net/ubuntu-releases/",mirror.xenyth.net,100 Gbps,N/A
 Canada,166 Gbps,PlanetHoster,http://ubuntu.linux.n0c.ca/ubuntu-cdimage/,ubuntu.linux.n0c.ca,20 Gbps,N/A
 Canada,166 Gbps,The University of British Columbia,"https://mirror.it.ubc.ca/ubuntu-releases/, http://mirror.it.ubc.ca/ubuntu-releases/",mirror.it.ubc.ca,10 Gbps,N/A
-Canada,166 Gbps,Manitoba Unix User Group,"https://muug.ca/mirror/ubuntu-releases/, http://muug.ca/mirror/ubuntu-releases/, ftp://ftp.muug.ca/mirror/ubuntu-releases/, rsync://muug.ca/ubuntu-releases/","muug.ca, ftp.muug.ca",10 Gbps,N/A
+Canada,166 Gbps,Manitoba Unix User Group,"https://muug.ca/mirror/ubuntu-releases/, http://muug.ca/mirror/ubuntu-releases/, ftp://ftp.muug.ca/mirror/ubuntu-releases/, rsync://muug.ca/ubuntu-releases/","ftp.muug.ca, muug.ca",10 Gbps,N/A
 Canada,166 Gbps,Fremont Cabal Internet Exchange,"https://yxeix.mm.fcix.net/ubuntu-releases/, http://yxeix.mm.fcix.net/ubuntu-releases/, rsync://yxeux.mm.fcix.net/ubuntu-releases/","yxeix.mm.fcix.net, yxeux.mm.fcix.net",10 Gbps,N/A
-Canada,166 Gbps,0xEmma,"https://mirror.0xem.ma/ubuntu-releases/, http://mirror.0xem.ma/ubuntu-releases/, rsync://mirrror.0xem.ma/ubuntu-releases/","mirror.0xem.ma, mirrror.0xem.ma",4 Gbps,N/A
+Canada,166 Gbps,0xEmma,"https://mirror.0xem.ma/ubuntu-releases/, http://mirror.0xem.ma/ubuntu-releases/, rsync://mirrror.0xem.ma/ubuntu-releases/","mirrror.0xem.ma, mirror.0xem.ma",4 Gbps,N/A
 Canada,166 Gbps,Team Hydra,"https://mirror.hep.gg/ubuntu-releases/, http://mirror.hep.gg/ubuntu-releases/, rsync://mirror.hep.gg/ubuntu-releases/",mirror.hep.gg,4 Gbps,N/A
 Canada,166 Gbps,Savoir-faire Linux,"https://gpl.savoirfairelinux.net/pub/mirrors/ubuntu-releases/, http://gpl.savoirfairelinux.net/pub/mirrors/ubuntu-releases/",gpl.savoirfairelinux.net,1 Gbps,N/A
 Canada,166 Gbps,Fremont Cabal Internet Exchange,"https://lesnet.mm.fcix.net/ubuntu-releases/, http://lesnet.mm.fcix.net/ubuntu-releases/, rsync://lesnet.mm.fcix.net/ubuntu-releases/",lesnet.mm.fcix.net,1 Gbps,N/A
@@ -85,8 +85,9 @@ Ecuador,1 Gbps,NodoVIP,https://mirror.linux.ec/ubuntu-releases/,mirror.linux.ec,
 Ecuador,1 Gbps,Consorcio Ecuatoriano para Desarrollo de Internet Avanzado - CEDIA,"https://mirror.cedia.org.ec/ubuntu-releases/, http://mirror.cedia.org.ec/ubuntu-releases/, ftp://mirror.cedia.org.ec/ubuntu-releases/, rsync://mirror.cedia.org.ec/ubuntu-releases/",mirror.cedia.org.ec,100 Mbps,N/A
 Ecuador,1 Gbps,Universidad Estatal de Bolivar,http://mirror.ueb.edu.ec/ubuntu-releases/,mirror.ueb.edu.ec,100 Mbps,N/A
 Estonia,10 Gbps,xTom,"https://mirrors.xtom.ee/ubuntu-releases/, http://mirrors.xtom.ee/ubuntu-releases/, rsync://mirrors.xtom.ee/ubuntu-releases/",mirrors.xtom.ee,10 Gbps,N/A
-Finland,21 Gbps,CSC / Funet,"https://www.nic.funet.fi/pub/mirrors/releases.ubuntu.com/, http://www.nic.funet.fi/pub/mirrors/releases.ubuntu.com/, ftp://ftp.funet.fi/pub/mirrors/releases.ubuntu.com/, rsync://rsync.nic.funet.fi/ftp/pub/mirrors/releases.ubuntu.com/","rsync.nic.funet.fi, www.nic.funet.fi, ftp.funet.fi",20 Gbps,N/A
-Finland,21 Gbps,Ubuntu-TW / OSSPlanet,"https://mirror.fi.ossplanet.net/ubuntu-releases/, http://mirror.fi.ossplanet.net/ubuntu-releases/, rsync://mirror.fi.ossplanet.net/ubuntu-releases/",mirror.fi.ossplanet.net,1 Gbps,N/A
+Finland,31 Gbps,CSC / Funet,"https://www.nic.funet.fi/pub/mirrors/releases.ubuntu.com/, http://www.nic.funet.fi/pub/mirrors/releases.ubuntu.com/, ftp://ftp.funet.fi/pub/mirrors/releases.ubuntu.com/, rsync://rsync.nic.funet.fi/ftp/pub/mirrors/releases.ubuntu.com/","ftp.funet.fi, rsync.nic.funet.fi, www.nic.funet.fi",20 Gbps,N/A
+Finland,31 Gbps,Mirror.5i.fi-release,"https://mirror.5i.fi/ubuntu-releases/, http://mirror.5i.fi/ubuntu-releases/, rsync://mirror.5i.fi/ubuntu-releases/",mirror.5i.fi,10 Gbps,N/A
+Finland,31 Gbps,Ubuntu-TW / OSSPlanet,"https://mirror.fi.ossplanet.net/ubuntu-releases/, http://mirror.fi.ossplanet.net/ubuntu-releases/, rsync://mirror.fi.ossplanet.net/ubuntu-releases/",mirror.fi.ossplanet.net,1 Gbps,N/A
 France,24 Gbps,Baker Telekom,"https://mirror.bakertelekom.fr/Ubuntu/, http://mirror.bakertelekom.fr/Ubuntu/",mirror.bakertelekom.fr,10 Gbps,N/A
 France,24 Gbps,OVHcloud,"https://ubuntu.mirrors.ovh.net/ubuntu-releases/, http://ubuntu.mirrors.ovh.net/ubuntu-releases/",ubuntu.mirrors.ovh.net,4 Gbps,N/A
 France,24 Gbps,Romain Neil,"https://mirror.tutosfaciles48.fr/ubuntu/, rsync://mirror.tutosfaciles48.fr/ubuntu/",mirror.tutosfaciles48.fr,2 Gbps,N/A
@@ -97,7 +98,7 @@ France,24 Gbps,Johnnybegood-mirror,"https://mirror.johnnybegood.fr/ubuntu-cd/, h
 France,24 Gbps,Ircam,"https://mirrors.ircam.fr/pub/ubuntu/releases/, http://mirrors.ircam.fr/pub/ubuntu/releases/, ftp://mirrors.ircam.fr/pub/ubuntu/releases/, rsync://mirrors.ircam.fr/pub/ubuntu/releases/",mirrors.ircam.fr,1 Gbps,N/A
 France,24 Gbps,Syxpi's Ubuntu Mirror,"https://ubuntu.syxpi.fr/ubuntu-releases/, http://ubuntu.syxpi.fr/ubuntu-releases/, rsync://ubuntu.syxpi.fr/ubuntu-releases/",ubuntu.syxpi.fr,1 Gbps,N/A
 France,24 Gbps,Université de Nantes,"https://ubuntu.univ-nantes.fr/ubuntu-cd/, http://ubuntu.univ-nantes.fr/ubuntu-cd/, ftp://ubuntu.univ-nantes.fr/ubuntu-cd/, rsync://ubuntu.univ-nantes.fr/ubuntu-cd/",ubuntu.univ-nantes.fr,1 Gbps,N/A
-France,24 Gbps,LIP6/Sorbonne Université,"https://www-ftp.lip6.fr/pub/linux/distributions/Ubuntu/releases/, http://www-ftp.lip6.fr/pub/linux/distributions/Ubuntu/releases/, ftp://ftp.lip6.fr/pub/linux/distributions/Ubuntu/releases/, rsync://ftp.lip6.fr/Ubuntu/releases/","www-ftp.lip6.fr, ftp.lip6.fr",1 Gbps,N/A
+France,24 Gbps,LIP6/Sorbonne Université,"https://www-ftp.lip6.fr/pub/linux/distributions/Ubuntu/releases/, http://www-ftp.lip6.fr/pub/linux/distributions/Ubuntu/releases/, ftp://ftp.lip6.fr/pub/linux/distributions/Ubuntu/releases/, rsync://ftp.lip6.fr/Ubuntu/releases/","ftp.lip6.fr, www-ftp.lip6.fr",1 Gbps,N/A
 France,24 Gbps,daupheus.com,https://ubuntu.daupheus.com/,ubuntu.daupheus.com,100 Mbps,N/A
 France,24 Gbps,CNRS/IPSL,"http://distrib-coffee.ipsl.jussieu.fr/pub/linux/ubuntu-releases/, ftp://distrib-coffee.ipsl.jussieu.fr/pub/linux/ubuntu-releases/, rsync://distrib-coffee.ipsl.jussieu.fr/pub/linux/ubuntu-releases/",distrib-coffee.ipsl.jussieu.fr,45 Mbps,N/A
 Georgia,100 Mbps,GRENA,"https://ubuntu.grena.ge/releases/, http://ubuntu.grena.ge/releases/, ftp://ubuntu.grena.ge/releases/",ubuntu.grena.ge,100 Mbps,N/A
@@ -132,8 +133,9 @@ Germany,127 Gbps,Host Europe,"http://ftp.hosteurope.de/mirror/releases.ubuntu.co
 Germany,127 Gbps,Funkfreunde Landshut e.V.,"https://mirror.funkfreundelandshut.de/ubuntu-releases/, http://mirror.funkfreundelandshut.de/ubuntu-releases/, rsync://mirror.funkfreundelandshut.de/mirror/ubuntu-releases/",mirror.funkfreundelandshut.de,45 Mbps,N/A
 Germany,127 Gbps,Ftp-stud.fht-esslingen.de,http://ftp-stud.fht-esslingen.de/Mirrors/releases.ubuntu.com/,ftp-stud.fht-esslingen.de,10 Mbps,N/A
 Germany,127 Gbps,Technische Universität Chemnitz,"https://ftp.tu-chemnitz.de/pub/linux/ubuntu-releases/, http://ftp.tu-chemnitz.de/pub/linux/ubuntu-releases/",ftp.tu-chemnitz.de,10 Mbps,N/A
-Greece,2 Gbps,Aristotle University of Thessaloniki,"https://fosszone.csd.auth.gr/ubuntu-releases/, http://fosszone.csd.auth.gr/ubuntu-releases/",fosszone.csd.auth.gr,1 Gbps,N/A
-Greece,2 Gbps,OTENET,ftp://ftp.otenet.gr/pub/linux/ubuntu-releases/,ftp.otenet.gr,1 Gbps,N/A
+Greece,3 Gbps,Aristotle University of Thessaloniki,"https://fosszone.csd.auth.gr/ubuntu-releases/, http://fosszone.csd.auth.gr/ubuntu-releases/",fosszone.csd.auth.gr,1 Gbps,N/A
+Greece,3 Gbps,University of Crete,"https://ftp.cc.uoc.gr/mirrors/linux/ubuntu/releases/, http://ftp.cc.uoc.gr/mirrors/linux/ubuntu/releases/, ftp://ftp.cc.uoc.gr/mirrors/linux/ubuntu/releases/",ftp.cc.uoc.gr,1 Gbps,N/A
+Greece,3 Gbps,OTENET,ftp://ftp.otenet.gr/pub/linux/ubuntu-releases/,ftp.otenet.gr,1 Gbps,N/A
 Greenland,45 Mbps,Tele Greenland A/S,"http://mirror.greennet.gl/releases/, rsync://mirror.greennet.gl/releases/",mirror.greennet.gl,45 Mbps,N/A
 Hong Kong,21 Gbps,01Link Network Services Limited,"https://mirror.01link.hk/ubuntu-releases/, http://mirror.01link.hk/ubuntu-releases/",mirror.01link.hk,10 Gbps,N/A
 Hong Kong,21 Gbps,xTom,"https://mirror.xtom.com.hk/ubuntu-releases/, http://mirror.xtom.com.hk/ubuntu-releases/, rsync://mirror.xtom.com.hk/repo/ubuntu-releases/",mirror.xtom.com.hk,10 Gbps,N/A
@@ -154,19 +156,18 @@ Indonesia,25 Gbps,Citrahost by Citranet,"https://mirror.citrahost.com/ubuntu-rel
 Indonesia,25 Gbps,PT Global Intermedia Nusantara,"https://mirror.gi.co.id/ubuntu-releases/, http://mirror.gi.co.id/ubuntu-releases/, rsync://mirror.gi.co.id/ubuntu-releases/",mirror.gi.co.id,1 Gbps,N/A
 Indonesia,25 Gbps,Pemerintah Provinsi Papua,"https://mirror.papua.go.id/ubuntu-releases/, http://mirror.papua.go.id/ubuntu-releases/, rsync://mirror.papua.go.id/ubuntu-releases/",mirror.papua.go.id,1 Gbps,N/A
 Indonesia,25 Gbps,Universitas Airlangga,"https://mirror.unair.ac.id/ubuntu-cd/, http://mirror.unair.ac.id/ubuntu-cd/",mirror.unair.ac.id,1 Gbps,N/A
-"Iran, Islamic Republic of",420 Gbps,HostBaran,"https://ir.releases.ubuntu.com/, http://ir.releases.ubuntu.com/",ir.releases.ubuntu.com,100 Gbps,N/A
-"Iran, Islamic Republic of",420 Gbps,Mobinhost,"https://ubuntu.mobinhost.com/releases/, http://ubuntu.mobinhost.com/releases/, ftp://ubuntu.mobinhost.com/ubuntu-releases/, rsync://ubuntu.mobinhost.com/releases/",ubuntu.mobinhost.com,100 Gbps,N/A
-"Iran, Islamic Republic of",420 Gbps,Pishgaman Tose Ertebatat,"https://ubuntu.pishgaman.net/releases/, http://ubuntu.pishgaman.net/releases/, rsync://ubuntu.pishgaman.net/releases/",ubuntu.pishgaman.net,100 Gbps,N/A
-"Iran, Islamic Republic of",420 Gbps,Sefroyek Pardaz Engineering Co.,"https://mirror.0-1.cloud/ubuntu-releases/, http://mirror.0-1.cloud/ubuntu-releases/",mirror.0-1.cloud,20 Gbps,N/A
-"Iran, Islamic Republic of",420 Gbps,Pardis Co.,"https://mirrors.pardisco.co/ubuntu-cd/, http://mirrors.pardisco.co/ubuntu-cd/",mirrors.pardisco.co,20 Gbps,N/A
-"Iran, Islamic Republic of",420 Gbps,Sindad LLC,"https://ir.ubuntu.sindad.cloud/releases/, http://ir.ubuntu.sindad.cloud/releases/, ftp://ir.ubuntu.sindad.cloud/releases/, rsync://ir.ubuntu.sindad.cloud/releases/",ir.ubuntu.sindad.cloud,10 Gbps,N/A
-"Iran, Islamic Republic of",420 Gbps,FamaServer,"https://mirror.famaserver.com/cd-image/, http://mirror.famaserver.com/cd-image/",mirror.famaserver.com,10 Gbps,N/A
-"Iran, Islamic Republic of",420 Gbps,ParsDev,"https://mirror.parsdev.com/ubuntu-releases/, http://mirror.parsdev.com/ubuntu-releases/",mirror.parsdev.com,10 Gbps,N/A
-"Iran, Islamic Republic of",420 Gbps,Petiak,"https://releases.ubuntu.petiak.ir/, http://releases.ubuntu.petiak.ir/, ftp://releases.ubuntu.petiak.ir/, rsync://releases.ubuntu.petiak.ir/releases/",releases.ubuntu.petiak.ir,10 Gbps,N/A
-"Iran, Islamic Republic of",420 Gbps,Amin IDC,"http://mirror.aminidc.com/ubuntu-releases/, ftp://mirror.aminidc.com/ubuntu-releases/, rsync://mirror.aminidc.com/ubuntu-releases/",mirror.aminidc.com,10 Gbps,N/A
-"Iran, Islamic Republic of",420 Gbps,Bonyan Co.,"https://ubuntu.bonyan.co/, http://ubuntu.bonyan.co/",ubuntu.bonyan.co,10 Gbps,N/A
-"Iran, Islamic Republic of",420 Gbps,Parsvds.com,"https://ubuntu.parsvds.com/ubuntu-releases/, http://ubuntu.parsvds.com/ubuntu-releases/",ubuntu.parsvds.com,10 Gbps,N/A
-"Iran, Islamic Republic of",420 Gbps,Servering Co,"https://ubuntu.servering.info/releases/, http://ubuntu.servering.info/releases/",ubuntu.servering.info,10 Gbps,N/A
+"Iran, Islamic Republic of",320 Gbps,HostBaran,"https://ir.releases.ubuntu.com/, http://ir.releases.ubuntu.com/",ir.releases.ubuntu.com,100 Gbps,N/A
+"Iran, Islamic Republic of",320 Gbps,Mobinhost,"https://ubuntu.mobinhost.com/releases/, http://ubuntu.mobinhost.com/releases/, ftp://ubuntu.mobinhost.com/ubuntu-releases/, rsync://ubuntu.mobinhost.com/releases/",ubuntu.mobinhost.com,100 Gbps,N/A
+"Iran, Islamic Republic of",320 Gbps,Sefroyek Pardaz Engineering Co.,"https://mirror.0-1.cloud/ubuntu-releases/, http://mirror.0-1.cloud/ubuntu-releases/",mirror.0-1.cloud,20 Gbps,N/A
+"Iran, Islamic Republic of",320 Gbps,Pardis Co.,"https://mirrors.pardisco.co/ubuntu-cd/, http://mirrors.pardisco.co/ubuntu-cd/",mirrors.pardisco.co,20 Gbps,N/A
+"Iran, Islamic Republic of",320 Gbps,Sindad LLC,"https://ir.ubuntu.sindad.cloud/releases/, http://ir.ubuntu.sindad.cloud/releases/, ftp://ir.ubuntu.sindad.cloud/releases/, rsync://ir.ubuntu.sindad.cloud/releases/",ir.ubuntu.sindad.cloud,10 Gbps,N/A
+"Iran, Islamic Republic of",320 Gbps,FamaServer,"https://mirror.famaserver.com/cd-image/, http://mirror.famaserver.com/cd-image/",mirror.famaserver.com,10 Gbps,N/A
+"Iran, Islamic Republic of",320 Gbps,ParsDev,"https://mirror.parsdev.com/ubuntu-releases/, http://mirror.parsdev.com/ubuntu-releases/",mirror.parsdev.com,10 Gbps,N/A
+"Iran, Islamic Republic of",320 Gbps,Petiak,"https://releases.ubuntu.petiak.ir/, http://releases.ubuntu.petiak.ir/, ftp://releases.ubuntu.petiak.ir/, rsync://releases.ubuntu.petiak.ir/releases/",releases.ubuntu.petiak.ir,10 Gbps,N/A
+"Iran, Islamic Republic of",320 Gbps,Amin IDC,"http://mirror.aminidc.com/ubuntu-releases/, ftp://mirror.aminidc.com/ubuntu-releases/, rsync://mirror.aminidc.com/ubuntu-releases/",mirror.aminidc.com,10 Gbps,N/A
+"Iran, Islamic Republic of",320 Gbps,Bonyan Co.,"https://ubuntu.bonyan.co/, http://ubuntu.bonyan.co/",ubuntu.bonyan.co,10 Gbps,N/A
+"Iran, Islamic Republic of",320 Gbps,Parsvds.com,"https://ubuntu.parsvds.com/ubuntu-releases/, http://ubuntu.parsvds.com/ubuntu-releases/",ubuntu.parsvds.com,10 Gbps,N/A
+"Iran, Islamic Republic of",320 Gbps,Servering Co,"https://ubuntu.servering.info/releases/, http://ubuntu.servering.info/releases/",ubuntu.servering.info,10 Gbps,N/A
 Ireland,100 Mbps,Pablosec Solutions,"https://mirror.pablosec.com/, http://mirror.pablosec.com/",mirror.pablosec.com,100 Mbps,N/A
 Israel,15 Gbps,INTERHOST,http://ubuntu.interhost.co.il/,ubuntu.interhost.co.il,10 Gbps,N/A
 Israel,15 Gbps,Kamatera Inc.,http://mirror.il-ha.kamatera.com/ubuntu-releases/,mirror.il-ha.kamatera.com,1 Gbps,N/A
@@ -212,7 +213,7 @@ Kenya,100 Mbps,KENET,"https://ubuntu.mirror.ac.ke/ubuntu-release/, http://ubuntu
 Latvia,1 Gbps,koyanet.lv,"https://ubuntu.koyanet.lv/releases/, http://ubuntu.koyanet.lv/releases/",ubuntu.koyanet.lv,1 Gbps,N/A
 Lithuania,11 Gbps,"Informacinės sistemos ir technologijos, UAB logotipas Informacinės sistemos ir technologijos, UAB","https://mirror.bacloud.com/ubuntu-mirror/releases/, http://mirror.bacloud.com/ubuntu-mirror/releases/, rsync://mirror.bacloud.com/ubuntu-mirror/releases/",mirror.bacloud.com,10 Gbps,N/A
 Lithuania,11 Gbps,Vilnius University,"http://ubuntu.mirror.vu.lt/releases/, ftp://ubuntu.mirror.vu.lt/releases/, rsync://ubuntu.mirror.vu.lt/releases/",ubuntu.mirror.vu.lt,1 Gbps,N/A
-Luxembourg,1 Gbps,root S.A.,"http://ubuntu.mirror.root.lu/ubuntu-releases/, ftp://mirror.root.lu/ubuntu/ubuntu-releases/, rsync://mirror.root.lu/Ubuntu/ubuntu-releases/","mirror.root.lu, ubuntu.mirror.root.lu",1 Gbps,N/A
+Luxembourg,1 Gbps,root S.A.,"http://ubuntu.mirror.root.lu/ubuntu-releases/, ftp://mirror.root.lu/ubuntu/ubuntu-releases/, rsync://mirror.root.lu/Ubuntu/ubuntu-releases/","ubuntu.mirror.root.lu, mirror.root.lu",1 Gbps,N/A
 "Macedonia, Republic of",11 Gbps,one.Vip,"http://mirror.onevip.mk/ubuntureleases/, rsync://mirror.onevip.mk/ubuntureleases/",mirror.onevip.mk,10 Gbps,N/A
 "Macedonia, Republic of",11 Gbps,Macedonian Telecom,"https://mirror.t-home.mk/ubuntu-releases/, http://mirror.t-home.mk/ubuntu-releases/",mirror.t-home.mk,1 Gbps,N/A
 Malaysia,3 Gbps,GB Network Solutions,"https://mirrors.gbnetwork.com/ubuntu-releases/, http://mirrors.gbnetwork.com/ubuntu-releases/, rsync://mirrors.gbnetwork.com/ubuntu-releases/",mirrors.gbnetwork.com,1 Gbps,N/A
@@ -220,7 +221,9 @@ Malaysia,3 Gbps,IP Serverone Solutions Sdn Bhd,"https://mirrors.ipserverone.com/
 Malaysia,3 Gbps,Gigabit Hosting Sdn Bhd,"https://ubuntureleases.mirror.thegigabit.com/, http://ubuntureleases.mirror.thegigabit.com/, rsync://ubuntureleases.mirror.thegigabit.com/ubuntu/",ubuntureleases.mirror.thegigabit.com,1 Gbps,N/A
 Malaysia,3 Gbps,Tuxuri,"https://ubuntu.tuxuri.com/releases/, http://ubuntu.tuxuri.com/releases/",ubuntu.tuxuri.com,100 Mbps,N/A
 Malaysia,3 Gbps,Putrajaya Open Innovation Terminal,"https://point.putrajaya.my/ubuntu/release/, http://point.putrajaya.my/ubuntu/release/",point.putrajaya.my,45 Mbps,N/A
-"Moldova, Republic of",1 Gbps,MangoHost,"https://mirror.mangohost.net/ubuntu-releases/, http://mirror.mangohost.net/ubuntu-releases/, rsync://mirror.mangohost.net/ubuntu-releases/",mirror.mangohost.net,1 Gbps,N/A
+"Moldova, Republic of",13 Gbps,iHost,https://mirror.ihost.md/ubuntu-releases/,mirror.ihost.md,10 Gbps,N/A
+"Moldova, Republic of",13 Gbps,iHost,"http://mirror.ihost.md/ubuntu-releases/, ftp://mirror.ihost.md/ubuntu-releases/, rsync://mirror.ihost.md/ubuntu-releases/",mirror.ihost.md,2 Gbps,N/A
+"Moldova, Republic of",13 Gbps,MangoHost,"https://mirror.mangohost.net/ubuntu-releases/, http://mirror.mangohost.net/ubuntu-releases/, rsync://mirror.mangohost.net/ubuntu-releases/",mirror.mangohost.net,1 Gbps,N/A
 Mongolia,1 Gbps,Mongolian National Data Center,http://mirror.datacenter.mn/ubuntu-releases/,mirror.datacenter.mn,1 Gbps,N/A
 Morocco,10 Gbps,MARWAN,"https://mirror.marwan.ma/ubuntu-releases/, http://mirror.marwan.ma/ubuntu-releases/, rsync://mirror.marwan.ma/ubuntu-releases/",mirror.marwan.ma,10 Gbps,N/A
 Nepal,1 Gbps,Nepali Cloud,"https://mirrors.nepalicloud.com/ubuntu-releases/, http://mirrors.nepalicloud.com/ubuntu-releases/",mirrors.nepalicloud.com,1 Gbps,N/A
@@ -249,7 +252,7 @@ Netherlands,280 Gbps,Previder B.V.,"https://mirror.previder.nl/ubuntu-releases/,
 Netherlands,280 Gbps,Evoluso.com,"https://mirrors.evoluso.com/ubuntu-releases/, http://mirrors.evoluso.com/ubuntu-releases/",mirrors.evoluso.com,1 Gbps,N/A
 Netherlands,280 Gbps,Ftpserv.tudelft.nl,ftp://ftpserv.tudelft.nl/pub/Linux/releases.ubuntu.com/,ftpserv.tudelft.nl,10 Mbps,N/A
 New Caledonia,6 Gbps,OFFRATEL LAGOON,"http://mirror.lagoon.nc/ubuntu-cd/, ftp://mirror.lagoon.nc/ubuntu-cd/, rsync://mirror.lagoon.nc/ubuntu-cd/",mirror.lagoon.nc,4 Gbps,N/A
-New Caledonia,6 Gbps,Nautile,"http://releases.ubuntu.nautile.nc/, rsync://rsync.ubuntu.nautile.nc/ubuntu-releases/","rsync.ubuntu.nautile.nc, releases.ubuntu.nautile.nc",2 Gbps,N/A
+New Caledonia,6 Gbps,Nautile,"http://releases.ubuntu.nautile.nc/, rsync://rsync.ubuntu.nautile.nc/ubuntu-releases/","releases.ubuntu.nautile.nc, rsync.ubuntu.nautile.nc",2 Gbps,N/A
 New Zealand,31 Gbps,Free Software Mirror Group (FSMG),"https://mirror.fsmg.org.nz/ubuntu-releases/, http://mirror.fsmg.org.nz/ubuntu-releases/, rsync://mirror.fsmg.org.nz/ubuntu-releases/",mirror.fsmg.org.nz,20 Gbps,N/A
 New Zealand,31 Gbps,2degrees,"https://mirror.2degrees.nz/ubuntu-releases/, http://mirror.2degrees.nz/ubuntu-releases/, rsync://mirror.2degrees.nz/ubuntu-releases/",mirror.2degrees.nz,10 Gbps,N/A
 New Zealand,31 Gbps,University of Canterbury,https://ucmirror.canterbury.ac.nz/linux/ubuntu-releases/,ucmirror.canterbury.ac.nz,1 Gbps,N/A
@@ -260,8 +263,7 @@ Norway,32 Gbps,UNINETT/University of Oslo,"http://ftp.uninett.no/linux/ubuntu-is
 Norway,32 Gbps,University of Bergen,"http://ubuntu.uib.no/releases/, ftp://ubuntu.uib.no/pub/Linux/Distributions/ubuntu/releases/, rsync://ubuntu.uib.no/ubuntu-releases/",ubuntu.uib.no,1 Gbps,N/A
 Oman,100 Mbps,Sultan Qaboos University,"http://mirror.squ.edu.om/ubuntureleases/, ftp://mirror.squ.edu.om/ubuntureleases/",mirror.squ.edu.om,100 Mbps,N/A
 Philippines,1 Gbps,RISE,"http://mirror.rise.ph/ubuntu-rel/, ftp://mirror.rise.ph/ubuntu-rel/",mirror.rise.ph,1 Gbps,N/A
-Poland,11 Gbps,ICM - Interdisciplinary Centre for Mathematical and Computational Modelling,"https://ftp.icm.edu.pl/pub/Linux/ubuntu-releases/, http://ftp.icm.edu.pl/pub/Linux/ubuntu-releases/, ftp://ftp.icm.edu.pl/pub/Linux/ubuntu-releases/, rsync://rsync.icm.edu.pl/pub/Linux/ubuntu-releases/","ftp.icm.edu.pl, rsync.icm.edu.pl",10 Gbps,N/A
-Poland,11 Gbps,Miejska Sieć Komputerowa LODMAN / Politechnika Łódzka CK,"https://ubuntu.man.lodz.pl/ubuntu-releases/, http://ubuntu.man.lodz.pl/ubuntu-releases/, ftp://ubuntu.man.lodz.pl/ubuntu-releases/, rsync://ubuntu.man.lodz.pl/ubuntu-releases/",ubuntu.man.lodz.pl,1 Gbps,N/A
+Poland,10 Gbps,ICM - Interdisciplinary Centre for Mathematical and Computational Modelling,"https://ftp.icm.edu.pl/pub/Linux/ubuntu-releases/, http://ftp.icm.edu.pl/pub/Linux/ubuntu-releases/, ftp://ftp.icm.edu.pl/pub/Linux/ubuntu-releases/, rsync://rsync.icm.edu.pl/pub/Linux/ubuntu-releases/","ftp.icm.edu.pl, rsync.icm.edu.pl",10 Gbps,N/A
 Portugal,13 Gbps,Universidade do Porto,"https://mirrors.up.pt/pub/ubuntu-releases/, http://mirrors.up.pt/pub/ubuntu-releases/, ftp://mirrors.up.pt/pub/ubuntu-releases/, rsync://mirrors.up.pt/pub/ubuntu-releases/",mirrors.up.pt,10 Gbps,N/A
 Portugal,13 Gbps,CeSIUM - Universidade do Minho,"http://cesium.di.uminho.pt/pub/ubuntu-releases/, ftp://cesium.di.uminho.pt/pub/ubuntu-releases/, rsync://cesium.di.uminho.pt/ubuntu-releases/",cesium.di.uminho.pt,1 Gbps,N/A
 Portugal,13 Gbps,Rede das Novas Licenciaturas - Técnico Lisboa,"https://ftp.rnl.tecnico.ulisboa.pt/pub/ubuntu/releases/, http://ftp.rnl.tecnico.ulisboa.pt/pub/ubuntu/releases/, ftp://ftp.rnl.tecnico.ulisboa.pt/pub/ubuntu/releases/, rsync://ftp.rnl.tecnico.ulisboa.pt/pub/ubuntu/releases/",ftp.rnl.tecnico.ulisboa.pt,1 Gbps,N/A
@@ -302,8 +304,9 @@ Singapore,177 Gbps,vHost,"https://sg-mirrors.vhost.vn/ubuntu-release/, http://sg
 Slovakia,11 Gbps,"Energotel, a.s.","http://ftp.energotel.sk/pub/linux/ubuntu-releases/, ftp://ftp.energotel.sk/pub/linux/ubuntu-releases/",ftp.energotel.sk,10 Gbps,N/A
 Slovakia,11 Gbps,Rainside,"http://tux.rainside.sk/ubuntu-releases/, ftp://tux.rainside.sk/ubuntu-releases/",tux.rainside.sk,1 Gbps,N/A
 Slovenia,100 Mbps,Arnes,"https://ftp.arnes.si/pub/mirrors/ubuntu-cdimage/, http://ftp.arnes.si/pub/mirrors/ubuntu-cdimage/, ftp://ftp.arnes.si/mirrors/ubuntu-cdimage/, rsync://ftp.arnes.si/releases/",ftp.arnes.si,100 Mbps,N/A
-South Africa,2 Gbps,HOSTAFRICA,http://mirror.hostafrica.co.za/ubuntu-releases/,mirror.hostafrica.co.za,1 Gbps,N/A
-South Africa,2 Gbps,Internet Solutions,"http://ubuntuarchive.is.co.za/cdimage/releases/, ftp://ubuntuarchive.is.co.za/cdimage/releases/",ubuntuarchive.is.co.za,1 Gbps,N/A
+South Africa,3 Gbps,HOSTAFRICA,http://mirror.hostafrica.co.za/ubuntu-releases/,mirror.hostafrica.co.za,1 Gbps,N/A
+South Africa,3 Gbps,Telkom SAIX,"http://ubuntu.saix.net/ubuntu-releases/, ftp://ftp.saix.net/pub/linux/distributions/Ubuntu/ubuntu-releases/","ftp.saix.net, ubuntu.saix.net",1 Gbps,N/A
+South Africa,3 Gbps,Internet Solutions,"http://ubuntuarchive.is.co.za/cdimage/releases/, ftp://ubuntuarchive.is.co.za/cdimage/releases/",ubuntuarchive.is.co.za,1 Gbps,N/A
 Spain,29 Gbps,RedIRIS,"http://ftp.rediris.es/sites/releases.ubuntu.com/, ftp://ftp.rediris.es/sites/releases.ubuntu.com/, rsync://rsync.rediris.es/sites/releases.ubuntu.com/","ftp.rediris.es, rsync.rediris.es",10 Gbps,N/A
 Spain,29 Gbps,Raiola Networks,"http://mirror.raiolanetworks.com/ubuntu-releases/, rsync://mirror.raiolanetworks.com/pub/ubuntu-releases/",mirror.raiolanetworks.com,10 Gbps,N/A
 Spain,29 Gbps,Oficina de Software Libre - CIXUG,"http://ftp.udc.es/ubuntu-releases/, ftp://ftp.udc.es/ubuntu-releases/, rsync://rsync.udc.es/ubuntu-releases/","rsync.udc.es, ftp.udc.es",2 Gbps,N/A
@@ -331,7 +334,7 @@ Switzerland,143 Gbps,Fremont Cabal Internet Exchange,"https://ipng.mm.fcix.net/u
 Taiwan,91 Gbps,Taiwan Digital Streaming Co.,"https://mirror.twds.com.tw/ubuntu-releases/, http://mirror.twds.com.tw/ubuntu-releases/, rsync://mirror.twds.com.tw/ubuntu-releases/",mirror.twds.com.tw,50 Gbps,N/A
 Taiwan,91 Gbps,"NCHC, Taiwan","https://free.nchc.org.tw/ubuntu-cd/, http://free.nchc.org.tw/ubuntu-cd/, ftp://free.nchc.org.tw/ubuntu-cd/",free.nchc.org.tw,20 Gbps,N/A
 Taiwan,91 Gbps,NCKU CCNS,"https://ubuntu.ccns.ncku.edu.tw/ubuntu-cd/, http://ubuntu.ccns.ncku.edu.tw/ubuntu-cd/, rsync://ubuntu.ccns.ncku.edu.tw/ubuntu-cd/",ubuntu.ccns.ncku.edu.tw,10 Gbps,N/A
-Taiwan,91 Gbps,Ubuntu-TW,"https://ftp.ubuntu-tw.net/ubuntu-releases/, http://ftp.ubuntu-tw.net/ubuntu-releases/, ftp://ftp.ubuntu-tw.net/ubuntu-releases/, rsync://ftp.ubuntu-tw.org/ubuntu-releases/","ftp.ubuntu-tw.org, ftp.ubuntu-tw.net",4 Gbps,N/A
+Taiwan,91 Gbps,Ubuntu-TW,"https://ftp.ubuntu-tw.net/ubuntu-releases/, http://ftp.ubuntu-tw.net/ubuntu-releases/, ftp://ftp.ubuntu-tw.net/ubuntu-releases/, rsync://ftp.ubuntu-tw.org/ubuntu-releases/","ftp.ubuntu-tw.net, ftp.ubuntu-tw.org",4 Gbps,N/A
 Taiwan,91 Gbps,OSSPlanet,"https://mirror.ossplanet.net/ubuntu-releases/, http://mirror.ossplanet.net/ubuntu-releases/, ftp://mirror.ossplanet.net/ubuntu-releases/, rsync://mirror.ossplanet.net/ubuntu-releases/",mirror.ossplanet.net,4 Gbps,N/A
 Taiwan,91 Gbps,TaiChung City Education Network Center,https://ftp.tc.edu.tw/iso/Ubuntu/,ftp.tc.edu.tw,1 Gbps,N/A
 Taiwan,91 Gbps,TKU-TamKangUniversity,"http://ftp.tku.edu.tw/ubuntu-releases/, ftp://ftp.tku.edu.tw/ubuntu-releases/",ftp.tku.edu.tw,1 Gbps,N/A
@@ -351,18 +354,18 @@ Turkey,42 Gbps,Domainhizmetleri.com,"https://mirror.domainhizmetleri.com/ubuntu-
 Ukraine,54 Gbps,Hostiko,"https://mirror.hostiko.network/ubuntu-releases/, http://mirror.hostiko.network/ubuntu-releases/",mirror.hostiko.network,20 Gbps,N/A
 Ukraine,54 Gbps,IP-Connect LLC,"https://ubuntu-releases.ip-connect.vn.ua/, http://ubuntu-releases.ip-connect.vn.ua/, ftp://ubuntu-releases.ip-connect.vn.ua/mirror/ubuntu-releases/, rsync://ubuntu-releases.ip-connect.vn.ua/ubuntu-releases/",ubuntu-releases.ip-connect.vn.ua,20 Gbps,N/A
 Ukraine,54 Gbps,Volia Broadband,"https://ubuntu.volia.net/ubuntu-releases/, http://ubuntu.volia.net/ubuntu-releases/, ftp://ubuntu.volia.net/ubuntu-releases/, rsync://ubuntu.volia.net/releases/",ubuntu.volia.net,10 Gbps,N/A
-Ukraine,54 Gbps,Omnilance Ltd.,"http://releases.ubuntu.mirrors.omnilance.com/, ftp://ubuntu.mirrors.omnilance.com/ubuntu/releases/","ubuntu.mirrors.omnilance.com, releases.ubuntu.mirrors.omnilance.com",2 Gbps,N/A
+Ukraine,54 Gbps,Omnilance Ltd.,"http://releases.ubuntu.mirrors.omnilance.com/, ftp://ubuntu.mirrors.omnilance.com/ubuntu/releases/","releases.ubuntu.mirrors.omnilance.com, ubuntu.mirrors.omnilance.com",2 Gbps,N/A
 Ukraine,54 Gbps,Distrohub,"https://distrohub.kyiv.ua/ubuntucd/, http://distrohub.kyiv.ua/ubuntucd/, rsync://distrohub.kyiv.ua/ubuntucd/",distrohub.kyiv.ua,1 Gbps,N/A
 Ukraine,54 Gbps,NetForce Ukraine LLC,"https://ubuntu.netforce.hosting/ubuntu-releases/, http://ubuntu.netforce.hosting/ubuntu-releases/, ftp://ubuntu.netforce.hosting/ubuntu-releases/, rsync://ubuntu.netforce.hosting/ubuntu-releases/",ubuntu.netforce.hosting,1 Gbps,N/A
 United Arab Emirates,10 Gbps,Root License,"https://ubuntu.rootlicense.com/releases/, http://ubuntu.rootlicense.com/releases/",ubuntu.rootlicense.com,10 Gbps,N/A
-United Kingdom,102 Gbps,Canonical Ltd.,"https://releases.ubuntu.com/, http://releases.ubuntu.com/, ftp://ftp.releases.ubuntu.com/releases/, rsync://rsync.releases.ubuntu.com/ubuntu-releases/","releases.ubuntu.com, ftp.releases.ubuntu.com, rsync.releases.ubuntu.com",20 Gbps,N/A
+United Kingdom,102 Gbps,Canonical Ltd.,"https://releases.ubuntu.com/, http://releases.ubuntu.com/, ftp://ftp.releases.ubuntu.com/releases/, rsync://rsync.releases.ubuntu.com/ubuntu-releases/","ftp.releases.ubuntu.com, releases.ubuntu.com, rsync.releases.ubuntu.com",20 Gbps,N/A
 United Kingdom,102 Gbps,Fremont Cabal Internet Exchange,"https://ask4.mm.fcix.net/ubuntu-releases/, http://ask4.mm.fcix.net/ubuntu-releases/, rsync://ask4.mm.fcix.net/ubuntu-releases/",ask4.mm.fcix.net,10 Gbps,N/A
 United Kingdom,102 Gbps,Katapult,"https://mirror.katapult.io/ubuntu-releases/, http://mirror.katapult.io/ubuntu-releases/",mirror.katapult.io,10 Gbps,N/A
 United Kingdom,102 Gbps,Server.net,"https://mirror.server.net/ubuntu-releases/, http://mirror.server.net/ubuntu-releases/",mirror.server.net,10 Gbps,N/A
 United Kingdom,102 Gbps,Vorboss Ltd,http://mirror.vorboss.net/ubuntu-releases/,mirror.vorboss.net,10 Gbps,N/A
 United Kingdom,102 Gbps,20i.com,"https://mirrors.20i.com/pub/releases.ubuntu.com/, http://mirrors.20i.com/pub/releases.ubuntu.com/",mirrors.20i.com,10 Gbps,N/A
 United Kingdom,102 Gbps,Vinters,"https://mirrors.vinters.com/ubuntu-releases/, http://mirrors.vinters.com/ubuntu-releases/, rsync://mirrors.vinters.com/ubuntu-releases/",mirrors.vinters.com,10 Gbps,N/A
-United Kingdom,102 Gbps,University Of Kent UK Mirror Service,"https://www.mirrorservice.org/sites/releases.ubuntu.com/, http://www.mirrorservice.org/sites/releases.ubuntu.com/, ftp://ftp.mirrorservice.org/sites/releases.ubuntu.com/, rsync://rsync.mirrorservice.org/releases.ubuntu.com/","www.mirrorservice.org, rsync.mirrorservice.org, ftp.mirrorservice.org",10 Gbps,N/A
+United Kingdom,102 Gbps,University Of Kent UK Mirror Service,"https://www.mirrorservice.org/sites/releases.ubuntu.com/, http://www.mirrorservice.org/sites/releases.ubuntu.com/, ftp://ftp.mirrorservice.org/sites/releases.ubuntu.com/, rsync://rsync.mirrorservice.org/releases.ubuntu.com/","ftp.mirrorservice.org, rsync.mirrorservice.org, www.mirrorservice.org",10 Gbps,N/A
 United Kingdom,102 Gbps,Fremont Cabal Internet Exchange,"https://b4sh.mm.fcix.net/ubuntu-releases/, http://b4sh.mm.fcix.net/ubuntu-releases/, rsync://b4sh.mm.fcix.net/ubuntu-releases/",b4sh.mm.fcix.net,1 Gbps,N/A
 United Kingdom,102 Gbps,Fremont Cabal Internet Exchange,"https://creeperhost.mm.fcix.net/ubuntu-releases/, http://creeperhost.mm.fcix.net/ubuntu-releases/, rsync://creeperhost.mm.fcix.net/ubuntu-releases/",creeperhost.mm.fcix.net,1 Gbps,N/A
 United Kingdom,102 Gbps,Fremont Cabal Internet Exchange,"https://divergentnetworks.mm.fcix.net/ubuntu-releases/, http://divergentnetworks.mm.fcix.net/ubuntu-releases/, rsync://divergentnetworks.mm.fcix.net/ubuntu-releases/",divergentnetworks.mm.fcix.net,1 Gbps,N/A
@@ -371,7 +374,7 @@ United Kingdom,102 Gbps,Kamatera Inc.,http://mirror.eu-lo.kamatera.com/ubuntu-re
 United Kingdom,102 Gbps,Freethought Internet,"https://mirror.freethought-internet.co.uk/ubuntu-releases/, http://mirror.freethought-internet.co.uk/ubuntu-releases/, ftp://mirror.freethought-internet.co.uk/ubuntu-releases/, rsync://mirror.freethought-internet.co.uk/ubuntu-releases/",mirror.freethought-internet.co.uk,1 Gbps,N/A
 United Kingdom,102 Gbps,"IT Services, University of Oxford","http://mirror.ox.ac.uk/sites/releases.ubuntu.com/releases/, ftp://mirror.ox.ac.uk/sites/releases.ubuntu.com/releases/",mirror.ox.ac.uk,1 Gbps,N/A
 United Kingdom,102 Gbps,VineHost,"https://mirror.vinehost.net/ubuntu-releases/, http://mirror.vinehost.net/ubuntu-releases/, ftp://mirror.vinehost.net/ubuntu-releases/, rsync://mirror.vinehost.net/ubuntu-releases/",mirror.vinehost.net,1 Gbps,N/A
-United Kingdom,102 Gbps,UK2,"http://releases.ubuntu.mirrors.uk2.net/, ftp://ubuntu.mirrors.uk2.net/ubuntu-releases/, rsync://ubuntu.mirrors.uk2.net/releases/","ubuntu.mirrors.uk2.net, releases.ubuntu.mirrors.uk2.net",1 Gbps,N/A
+United Kingdom,102 Gbps,UK2,"http://releases.ubuntu.mirrors.uk2.net/, ftp://ubuntu.mirrors.uk2.net/ubuntu-releases/, rsync://ubuntu.mirrors.uk2.net/releases/","releases.ubuntu.mirrors.uk2.net, ubuntu.mirrors.uk2.net",1 Gbps,N/A
 United Kingdom,102 Gbps,Moon127.net,http://releases.ubuntu.moon127.net/,releases.ubuntu.moon127.net,1 Gbps,N/A
 United Kingdom,102 Gbps,Ticklers.Org,"http://ftp.ticklers.org/releases.ubuntu.org/releases/, rsync://ftp.ticklers.org/releases.ubuntu.org/releases/",ftp.ticklers.org,1 Gbps,N/A
 United Kingdom,102 Gbps,Datahop Ltd.,"http://gb.releases.ubuntu.com/, ftp://gb.releases.ubuntu.com/, rsync://gb.releases.ubuntu.com/releases/",gb.releases.ubuntu.com,1 Gbps,N/A
@@ -448,7 +451,7 @@ United States,514 Gbps,Fremont Cabal Internet Exchange,"https://ohioix.mm.fcix.n
 United States,514 Gbps,Fremont Cabal Internet Exchange,"https://paducahix.mm.fcix.net/ubuntu-releases/, http://paducahix.mm.fcix.net/ubuntu-releases/, rsync://paducahix.mm.fcix.net/ubuntu-releases/",paducahix.mm.fcix.net,1 Gbps,N/A
 United States,514 Gbps,Fremont Cabal Internet Exchange,"https://ryamer.mm.fcix.net/ubuntu-releases/, http://ryamer.mm.fcix.net/ubuntu-releases/, rsync://ryamer.mm.fcix.net/ubuntu-releases/",ryamer.mm.fcix.net,1 Gbps,N/A
 United States,514 Gbps,Fremont Cabal Internet Exchange,"https://veronanetworks.mm.fcix.net/ubuntu-releases/, http://veronanetworks.mm.fcix.net/ubuntu-releases/, rsync://veronanetworks.mm.fcix.net/ubuntu-releases/",veronanetworks.mm.fcix.net,1 Gbps,N/A
-United States,514 Gbps,Georgia Tech. Software Library,"http://www.gtlib.gatech.edu/pub/ubuntu-releases/, ftp://ftp.gtlib.gatech.edu/pub/ubuntu-releases/, rsync://rsync.gtlib.gatech.edu/ubuntu-releases/","www.gtlib.gatech.edu, rsync.gtlib.gatech.edu, ftp.gtlib.gatech.edu",1 Gbps,N/A
+United States,514 Gbps,Georgia Tech. Software Library,"http://www.gtlib.gatech.edu/pub/ubuntu-releases/, ftp://ftp.gtlib.gatech.edu/pub/ubuntu-releases/, rsync://rsync.gtlib.gatech.edu/ubuntu-releases/","ftp.gtlib.gatech.edu, rsync.gtlib.gatech.edu, www.gtlib.gatech.edu",1 Gbps,N/A
 United States,514 Gbps,Michigan Tech Linux Users Group,"http://lug.mtu.edu/ubuntu-releases/, ftp://lug.mtu.edu/ubuntu-releases/, rsync://lug.mtu.edu/ubuntu-releases/",lug.mtu.edu,100 Mbps,N/A
 United States,514 Gbps,Washington State University,http://mirrors.vcea.wsu.edu/ubuntu-releases/,mirrors.vcea.wsu.edu,100 Mbps,N/A
 United States,514 Gbps,Mirror.cs.umn.edu,http://mirror.cs.umn.edu/ubuntu-releases/,mirror.cs.umn.edu,10 Mbps,N/A
