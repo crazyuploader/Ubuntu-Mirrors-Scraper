@@ -388,9 +388,9 @@
                 "rsync://rsync.las.ic.unicamp.br/ubuntu-releases/"
             ],
             "hostnames": [
+                "rsync.las.ic.unicamp.br",
                 "www.las.ic.unicamp.br",
-                "ftp.las.ic.unicamp.br",
-                "rsync.las.ic.unicamp.br"
+                "ftp.las.ic.unicamp.br"
             ],
             "mirror_speed": "1 Gbps",
             "status": "N/A"
@@ -539,8 +539,8 @@
                 "rsync://muug.ca/ubuntu-releases/"
             ],
             "hostnames": [
-                "muug.ca",
-                "ftp.muug.ca"
+                "ftp.muug.ca",
+                "muug.ca"
             ],
             "mirror_speed": "10 Gbps",
             "status": "N/A"
@@ -1241,9 +1241,9 @@
                 "rsync://rsync.nic.funet.fi/ftp/pub/mirrors/releases.ubuntu.com/"
             ],
             "hostnames": [
-                "www.nic.funet.fi",
                 "rsync.nic.funet.fi",
-                "ftp.funet.fi"
+                "ftp.funet.fi",
+                "www.nic.funet.fi"
             ],
             "mirror_speed": "20 Gbps",
             "status": "N/A"
@@ -1731,8 +1731,8 @@
                 "rsync://rsync.uni-bayreuth.de/ubuntu-releases/"
             ],
             "hostnames": [
-                "ftp.uni-bayreuth.de",
-                "rsync.uni-bayreuth.de"
+                "rsync.uni-bayreuth.de",
+                "ftp.uni-bayreuth.de"
             ],
             "mirror_speed": "1 Gbps",
             "status": "N/A"
@@ -1944,7 +1944,7 @@
         },
         {
             "country": "Greece",
-            "country_speed": "2 Gbps",
+            "country_speed": "3 Gbps",
             "mirror_name": "Aristotle University of Thessaloniki",
             "protocols": [
                 "https://fosszone.csd.auth.gr/ubuntu-releases/",
@@ -1958,7 +1958,22 @@
         },
         {
             "country": "Greece",
-            "country_speed": "2 Gbps",
+            "country_speed": "3 Gbps",
+            "mirror_name": "University of Crete",
+            "protocols": [
+                "https://ftp.cc.uoc.gr/mirrors/linux/ubuntu/releases/",
+                "http://ftp.cc.uoc.gr/mirrors/linux/ubuntu/releases/",
+                "ftp://ftp.cc.uoc.gr/mirrors/linux/ubuntu/releases/"
+            ],
+            "hostnames": [
+                "ftp.cc.uoc.gr"
+            ],
+            "mirror_speed": "1 Gbps",
+            "status": "N/A"
+        },
+        {
+            "country": "Greece",
+            "country_speed": "3 Gbps",
             "mirror_name": "OTENET",
             "protocols": [
                 "ftp://ftp.otenet.gr/pub/linux/ubuntu-releases/"
@@ -2299,8 +2314,8 @@
                 "rsync://mirrors.zagrio.net/ubuntu-releases/"
             ],
             "hostnames": [
-                "releases.ubuntu.mirrors.zagrio.net",
-                "mirrors.zagrio.net"
+                "mirrors.zagrio.net",
+                "releases.ubuntu.mirrors.zagrio.net"
             ],
             "mirror_speed": "100 Gbps",
             "status": "N/A"
@@ -3138,8 +3153,8 @@
                 "rsync://mirror.root.lu/Ubuntu/ubuntu-releases/"
             ],
             "hostnames": [
-                "ubuntu.mirror.root.lu",
-                "mirror.root.lu"
+                "mirror.root.lu",
+                "ubuntu.mirror.root.lu"
             ],
             "mirror_speed": "1 Gbps",
             "status": "N/A"
@@ -3685,8 +3700,8 @@
                 "rsync://rsync.ubuntu.nautile.nc/ubuntu-releases/"
             ],
             "hostnames": [
-                "rsync.ubuntu.nautile.nc",
-                "releases.ubuntu.nautile.nc"
+                "releases.ubuntu.nautile.nc",
+                "rsync.ubuntu.nautile.nc"
             ],
             "mirror_speed": "2 Gbps",
             "status": "N/A"
@@ -3847,8 +3862,8 @@
                 "rsync://rsync.icm.edu.pl/pub/Linux/ubuntu-releases/"
             ],
             "hostnames": [
-                "ftp.icm.edu.pl",
-                "rsync.icm.edu.pl"
+                "rsync.icm.edu.pl",
+                "ftp.icm.edu.pl"
             ],
             "mirror_speed": "10 Gbps",
             "status": "N/A"
@@ -4913,8 +4928,8 @@
                 "rsync://ftp.ubuntu-tw.org/ubuntu-releases/"
             ],
             "hostnames": [
-                "ftp.ubuntu-tw.net",
-                "ftp.ubuntu-tw.org"
+                "ftp.ubuntu-tw.org",
+                "ftp.ubuntu-tw.net"
             ],
             "mirror_speed": "4 Gbps",
             "status": "N/A"
@@ -5191,8 +5206,8 @@
                 "ftp://ubuntu.mirrors.omnilance.com/ubuntu/releases/"
             ],
             "hostnames": [
-                "releases.ubuntu.mirrors.omnilance.com",
-                "ubuntu.mirrors.omnilance.com"
+                "ubuntu.mirrors.omnilance.com",
+                "releases.ubuntu.mirrors.omnilance.com"
             ],
             "mirror_speed": "2 Gbps",
             "status": "N/A"
@@ -5239,8 +5254,8 @@
             ],
             "hostnames": [
                 "releases.ubuntu.com",
-                "ftp.releases.ubuntu.com",
-                "rsync.releases.ubuntu.com"
+                "rsync.releases.ubuntu.com",
+                "ftp.releases.ubuntu.com"
             ],
             "mirror_speed": "20 Gbps",
             "status": "N/A"
@@ -6637,9 +6652,9 @@
                 "rsync://rsync.gtlib.gatech.edu/ubuntu-releases/"
             ],
             "hostnames": [
-                "www.gtlib.gatech.edu",
                 "rsync.gtlib.gatech.edu",
-                "ftp.gtlib.gatech.edu"
+                "ftp.gtlib.gatech.edu",
+                "www.gtlib.gatech.edu"
             ],
             "mirror_speed": "1 Gbps",
             "status": "N/A"
@@ -6783,6 +6798,6 @@
             "status": "N/A"
         }
     ],
-    "count": 463,
-    "last_updated": "2025-10-20T01:02:16.959238+00:00"
+    "count": 464,
+    "last_updated": "2025-10-20T05:32:24.519019+00:00"
 }
